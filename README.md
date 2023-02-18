@@ -6,13 +6,20 @@
 
 ----
 
-# Core CS
+## Core CS
 
-## High School Math
+### High School Math
+
+- [Arithmetics](https://www.khanacademy.org/math/arithmetic#arithmetic-subject-challenge)
+- [Basic Geometry](https://www.khanacademy.org/math/basic-geo#basic-geo-subject-challenge)
+- [Pre-algebra](https://www.khanacademy.org/math/pre-algebra#pre-algebra-subject-challenge)
+- [Integrated Math 1](https://www.khanacademy.org/math/math1#math1-subject-challenge)
+- [Integrated Math 2](https://www.khanacademy.org/math/math2#math2-subject-challenge)
+- [Integrated Math 3](https://www.khanacademy.org/math/math3#math3-subject-challenge)
 
 ----
 
-# Advanced Systems 
+## Advanced Systems 
 
-## AP Physics
+### AP Physics
 ----
