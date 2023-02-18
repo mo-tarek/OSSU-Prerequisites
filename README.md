@@ -7,8 +7,12 @@
 ----
 
 # Core CS
+
+## High School Math
+
 ----
-# Advanced CS 
-----
+
 # Advanced Systems 
+
+## AP Physics
 ----
