@@ -1,2 +1,5 @@
 # OSSU-Prerequisites
-Courses needed before starting ossu
+
+- Core CS &rarr; **High School Math**
+- Advanced CS &rarr; **Core CS**
+- Advanced Systems &rarr; **AP Physics**
